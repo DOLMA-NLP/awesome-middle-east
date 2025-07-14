@@ -5,6 +5,10 @@ This repository keeps track of the progress in language and speech technologies 
 - **For Kurdish and its related varieties, check [Awesome Kurdish](https://github.com/sinaahmadi/awesome-kurdish).**
 - **For Balochi, check [Awesome Balochi](https://github.com/strickvl/awesome-balochi-nlp)**
 
+<p align="center" width="100%">
+<img width="60%" src="https://raw.githubusercontent.com/DOLMA-NLP/dolma-nlp.github.io/refs/heads/main/assets/img/ME_languages.png" alt="loanwords">
+</p>
+
 :disappointed: **How can *I* help?** If you are native speaker of any marginalized language in the Middle East, you should feel disappointed about the lack of technological support of your language. While sad, this can easily change by collecting data. For translations, for example, try this: [https://bouquet.metademolab.com](https://bouquet.metademolab.com).
 
 ## Gilaki
